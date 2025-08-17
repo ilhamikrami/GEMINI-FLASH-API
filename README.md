@@ -1,1 +1,1 @@
-# gemini-ai-api-project
+# implement project Gemini AI API endpoints
